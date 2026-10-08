@@ -26,4 +26,5 @@ Connect
 
 ---
 
-"loss.backward() → life.forward()"
+"loss.backward()
+life.forward()"
