@@ -21,8 +21,9 @@ I'm taking it step by step, building things, making mistakes, and learning from 
 
 Connect
 
-- 💼 "LinkedIn" (https://www.linkedin.com/in/mynazarian)
-- 📸 "Instagram" (https://www.instagram.com/mynazarian)
+""LinkedIn" (https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" (https://www.linkedin.com/in/mynazarian)
+
+""Instagram" (https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)" (https://www.instagram.com/mynazarian)
 
 ---
 
