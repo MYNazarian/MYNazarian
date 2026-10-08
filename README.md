@@ -1,16 +1,29 @@
-## Hi there 👋
+Hi, I'm Yasin 👋
 
-<!--
-**MYNazarian/MYNazarian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm starting my journey into Machine Learning and documenting what I learn along the way.
 
-Here are some ideas to get you started:
+Right now, I'm focused on understanding the fundamentals, building projects, and getting better by doing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I'm working on
+
+- 🐍 Python & Data
+- 📐 Math for Machine Learning
+- 🤖 Machine Learning fundamentals
+- 🛠️ Building practical projects
+- 📚 Learning in public
+
+My Journey
+
+Learn → Build → Explain → Share
+
+I'm not trying to learn everything at once.
+I'm taking it step by step, building things, making mistakes, and learning from them.
+
+Connect
+
+- 💼 LinkedIn
+- 📸 Instagram
+
+---
+
+"loss.backward() → life.forward()"
