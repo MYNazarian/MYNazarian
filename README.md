@@ -21,8 +21,8 @@ I'm taking it step by step, building things, making mistakes, and learning from 
 
 Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/mynazarian
-- 📸 Instagram: https://www.instagram.com/mynazarian
+- 💼 [LinkedIn:](https://www.linkedin.com/in/mynazarian)
+- 📸 [Instagram:](https://www.instagram.com/mynazarian)
 
 ---
 
